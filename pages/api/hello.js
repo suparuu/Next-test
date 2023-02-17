@@ -1,4 +1,3 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
 let db = require("data/db.json");
 let fs = require("fs");
